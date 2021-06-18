@@ -3,6 +3,7 @@ package com.kit.pattern;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.lifecycle.MutableLiveData;
 
 import com.android.kit.R;
 import com.kit.pattern.builder.Address;
@@ -24,5 +25,6 @@ public class MainActivity extends AppCompatActivity {
                 .setCity("Delhi")
                 .setCountry("India")
                 .build();
+
     }
 }

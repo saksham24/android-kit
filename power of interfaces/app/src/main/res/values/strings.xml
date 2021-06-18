@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android kit</string>
+    <string name="info">Learn about power of Java-interfaces and genric</string>
+    <string name="text_mini_live_data">1. Mini Live Data</string>
+    <string name="text_mini__threading_live_data">2. Mini Thread controlled Live Data</string>
+    <string name="text_mini_async_task">3. Mini Async-Task</string>
+    <string name="text_application_minimise_solution">4. Application minimise and re-open events like IOS applications</string>
+</resources>
