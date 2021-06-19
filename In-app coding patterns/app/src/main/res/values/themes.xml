@@ -28,12 +28,13 @@
         <item name="android:textStyle">bold</item>
     </style>
 
-    <style name="info_textviews">
+    <style name="info_textViews">
         <item name="android:textColor">@color/colorPrimaryDark</item>
-        <item name="android:textSize">@dimen/small_font_size</item>
+        <item name="android:textSize">@dimen/large_font_size</item>
         <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/padding_small</item>
+        <item name="android:textStyle">bold</item>
     </style>
-
     <style name="info_textviews_header">
         <item name="android:textColor">@color/colorPrimaryDark</item>
         <item name="android:textSize">@dimen/extra_large_font_size</item>

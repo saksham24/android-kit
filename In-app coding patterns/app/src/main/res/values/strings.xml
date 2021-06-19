@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android kit</string>
+    <string name="info">Learn about In-app coding patterns</string>
+    <string name="text_builder">1. Builder pattern</string>
+    <string name="text_factory">2. Factory pattern</string>
+    <string name="text_command">3. Command pattern</string>
 </resources>
