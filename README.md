@@ -69,7 +69,7 @@ Every command pattern code can be easily converted to a factory pattern due to t
   3. Mini live-data.
   4. Mini live-data with thread control.
   
-   <p align="start"><img src="https://github.com/saksham24/android-kit/blob/main/power%20of%20interfaces/image1.png" width="75%"><br><br>
+   <p align="start"><img src="https://github.com/saksham24/android-kit/blob/main/power%20of%20interfaces/image1.png" width="80%"><br><br>
 
 For **"Base Activity for application minimize controller callbacks"** use **BaseActivity** provided in the above code and integrate application class code in the same manner to achieve application's **minimize** or **reopen** events like IOS.
     
