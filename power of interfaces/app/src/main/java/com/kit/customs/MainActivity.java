@@ -17,7 +17,6 @@ public class MainActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         /*
          * Works the same as live-data class of android. Remember to unregister the observer when activity is destroyed
          * as we have not integrated activity life cycle callbacks.
@@ -46,7 +45,7 @@ public class MainActivity extends BaseActivity {
         });
 
 
-        /**
+        /*
          * Works same as AsyncTask class of android.
          * This is simple Java-interfaces and generic's implementation to give raw idea that how these well known classes are made by android.
          */
